@@ -44,10 +44,10 @@
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  -webkit-transition: 0.7s all ease-in-out;
-  transition: 0.7s all ease-in-out;
-  -webkit-transform: translateY(506px);
-          transform: translateY(506px);
+  -webkit-transition: 1.2s all ease-in-out;
+  transition: 1.2s all ease-in-out;
+  -webkit-transform: translateY(1006px);
+          transform: translateY(1006px);
   z-index: 222;
 }
 
@@ -401,7 +401,7 @@
 }
 
 .backround-box .shablon-content .bottom {
-  -webkit-transform: translateY(500px);
-          transform: translateY(500px);
+  -webkit-transform: translateY(10000px);
+          transform: translateY(10000px);
 }
 /*# sourceMappingURL=style.css.map */
